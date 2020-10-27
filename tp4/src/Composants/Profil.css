@@ -1,0 +1,17 @@
+.txt {
+    color: white;
+    align-items: center;
+    justify-content: center;
+    margin-left : 15em;
+    margin-right : 15em;
+    margin-top: 4em;
+    margin-bottom: 4em;
+    padding: 2em;
+    border-radius: 5px;
+}
+
+.Btn {
+  background-color: #87CEAA;
+  align-items: center;
+  justify-content: center;
+}
